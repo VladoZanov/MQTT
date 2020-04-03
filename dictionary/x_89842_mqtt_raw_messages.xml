@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="raw_messages" max_length="40" name="x_89842_mqtt_raw_messages" type="collection">
+        <element label="Message" max_length="40" name="message" type="string"/>
+    </element>
+</database>
